@@ -1,5 +1,6 @@
-.Title{
+.Bio{
     font-family: Arial;
-    font-size: 30px;
     letter-spacing: 2px;
+    font-size: 25px;
+    width: 500px;
 }

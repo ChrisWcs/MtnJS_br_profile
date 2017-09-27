@@ -1,4 +1,6 @@
 .Picture{
     width: 300px;
     height: auto;
+    border: solid black 1px;
+    border-radius: 50px;
 }
